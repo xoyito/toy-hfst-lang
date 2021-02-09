@@ -1,0 +1,23 @@
+Multichar_Symbols
+
+! Part of Speech
++V ! Verb
++N ! Noun
+
+! Number
++Sg ! Singular 
++Pl ! Plural
+
+! Person
++1 ! First
++2 ! Second
++3 ! Third
+
+!Tense
+ +Pres ! Present
+ +Inf ! Infinitive
+
+ LEXICON Root
+ Nouns ;
+ Verbs ;
+ 
