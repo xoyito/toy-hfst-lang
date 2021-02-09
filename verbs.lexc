@@ -1,0 +1,25 @@
+LEXICON Verbs
+am V ;
+bail V ;
+habl V ;
+nad V ;
+lav V ;
+llam V ;
+tir V ;
+tom V ;
+trabaj V ;
+viaj V ;
+
+!Lexicon with Verb POS tag only:
+LEXICON V
++V: V-suff ;
+
+!Lexicon containing inflectional suffixes and tags:
+LEXICON V-suff
++Pres+1+Sg:o     # ;
++Pres+1+Pl:amos  # ;
++Pres+2+Sg:as    # ;
++Pres+2+Pl:an    # ;
++Pres+3+Sg:a     # ;
++Pres+3+Pl:an    # ;
++Inf:ar          # ;
