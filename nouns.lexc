@@ -1,0 +1,20 @@
+LEXICON Nouns
+perro N ;
+gato N ;
+guitarra N ;
+libro N ;
+ventana N ;
+rueda N ;
+llave N ;
+camisa N ;
+escuela N ;
+hombre N ;
+
+!Lexicon with Noun POS tag
+LEXICON N
++N: N-suff ;
+
+!Lexicon with Noun suffixes:
+LEXICON N-suff
++Sg:    # ;
++Pl:s   # ;
